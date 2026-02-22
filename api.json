@@ -1,4 +1,12 @@
-[
+{
+  "metadata":{
+    "email": "23f2002819@ds.study.iitm.ac.in",
+    "version": "cc420ef5"
+  },
+
+
+
+  "products":[
   {
     "id": "prod-cc420ef5-001",
     "name": "Premium Item 1",
@@ -160,3 +168,5 @@
     "rating": 4.5
   }
 ]
+
+}
